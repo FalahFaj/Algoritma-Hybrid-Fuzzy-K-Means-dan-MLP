@@ -1,0 +1,55 @@
+﻿Treatment Category,Total Phenolics (Folin–Ciocalteu),Total Phenolic Content (TPC; Solvent-Separated),Saponin Content (Solvent-Separated),Water Activity (aw),Reducing Sugars (DNS Method),Antioxidant Capacity (ABTS Assay),CIELab L* (Lightness),CIELab a* (Red–Green Axis),CIELab b* (Yellow–Blue Axis),CIELab Chroma (C*),CIELab Hue Angle (Source-Reported Scale),Bulk Density (kg/m³),pH,Moisture Content (%)
+Traditional drying without zeolite,59.197,29.9,238.4,0.547,9.2,9415,69.09,3.26,23.53,26.79,0.14,779,6.29,10.83
+Traditional drying without zeolite,60.026,30.4,239,0.544,9.7,9420,70.36,3.4,24.17,27.57,0.14,781,6.27,10.85
+Traditional drying without zeolite,63.508,30.6,237.3,0.549,9.1,9435,67.51,3.73,24.39,28.12,0.15,778,6.21,10.82
+Traditional drying without zeolite,51.757,43.7,224.7,0.509,8.9,9120,71.22,1.75,22.98,24.73,0.08,773,6.24,10.72
+Traditional drying without zeolite,53.824,43.5,223.7,0.508,8.7,9115,70.71,1.76,22.37,24.13,0.08,775,6.26,10.74
+Traditional drying without zeolite,53.716,43,222.4,0.503,8.2,9125,71.09,1.63,22.17,23.8,0.07,781,6.22,10.73
+Traditional drying without zeolite,52.192,21.4,193,0.485,7.4,8515,68.99,2.2,23.52,25.72,0.09,716,6.18,10.64
+Traditional drying without zeolite,50.56,21,192.1,0.487,7.3,8590,69.17,2.2,23.4,25.6,0.09,704,6.22,10.63
+Traditional drying without zeolite,53.498,20.9,194.3,0.49,7.5,8540,71.11,1.87,22.89,24.76,0.08,708,6.29,10.61
+Zeolite-assisted drying,51.648,42.7,228.5,0.523,9.5,9385,66.35,3.03,23.78,26.81,0.13,761,6.16,10.62
+Zeolite-assisted drying,50.343,42.9,229.9,0.528,9.1,9390,64.99,3.05,23.4,26.45,0.13,764,6.16,10.64
+Zeolite-assisted drying,46.752,42.4,228.8,0.525,9.7,9385,65.84,3.11,23.74,26.85,0.13,767,6.15,10.65
+Zeolite-assisted drying,50.778,25.3,220.1,0.496,8.1,8995,69.62,2.4,23.17,25.57,0.1,766,6.28,10.51
+Zeolite-assisted drying,51.322,25.5,221.8,0.498,7.9,8999,69.5,2.43,22.98,25.41,0.11,771,6.28,10.53
+Zeolite-assisted drying,50.778,25,222.6,0.495,8.5,8995,68.74,2.43,22.84,25.27,0.11,759,6.29,10.52
+Zeolite-assisted drying,50.343,21.36,189.6,0.467,7.8,8440,64.25,2.32,23,25.32,0.1,705,6.21,10.45
+Zeolite-assisted drying,50.452,21.3,189.9,0.469,7.8,8465,67.02,2.39,23.12,25.51,0.1,701,6.19,10.44
+Zeolite-assisted drying,53.933,21.1,187.8,0.471,7.6,8415,67,2.38,23.02,25.4,0.1,702,6.21,10.43
+Natural post-harvest process,59.197,29.9,238.4,0.547,9.2,9415,69.09,3.26,23.53,26.79,0.14,779,6.29,10.83
+Natural post-harvest process,60.026,30.4,239,0.544,9.7,9420,70.36,3.4,24.17,27.57,0.14,781,6.27,10.85
+Natural post-harvest process,63.508,30.6,237.3,0.549,9.1,9435,67.51,3.73,24.39,28.12,0.15,778,6.21,10.82
+Honey post-harvest process,51.757,43.7,224.7,0.509,8.9,9120,71.22,1.75,22.98,24.73,0.08,773,6.24,10.72
+Honey post-harvest process,53.824,43.5,223.7,0.508,8.7,9115,70.71,1.76,22.37,24.13,0.08,775,6.26,10.74
+Honey post-harvest process,53.716,43,222.4,0.503,8.2,9125,71.09,1.63,22.17,23.8,0.07,781,6.22,10.73
+Washed post-harvest process,52.192,21.4,193,0.485,7.4,8515,68.99,2.2,23.52,25.72,0.09,716,6.18,10.64
+Washed post-harvest process,50.56,21,192.1,0.487,7.3,8590,69.17,2.2,23.4,25.6,0.09,704,6.22,10.63
+Washed post-harvest process,53.498,20.9,194.3,0.49,7.5,8540,71.11,1.87,22.89,24.76,0.08,708,6.29,10.61
+Natural post-harvest process,51.648,42.7,228.5,0.523,9.5,9385,66.35,3.03,23.78,26.81,0.13,761,6.16,10.62
+Natural post-harvest process,50.343,42.9,229.9,0.528,9.1,9390,64.99,3.05,23.4,26.45,0.13,764,6.16,10.64
+Natural post-harvest process,46.752,42.4,228.8,0.525,9.7,9385,65.84,3.11,23.74,26.85,0.13,767,6.15,10.65
+Honey post-harvest process,50.778,25.3,220.1,0.496,8.1,8995,69.62,2.4,23.17,25.57,0.1,766,6.28,10.51
+Honey post-harvest process,51.322,25.5,221.8,0.498,7.9,8999,69.5,2.43,22.98,25.41,0.11,771,6.28,10.53
+Honey post-harvest process,50.778,25,222.6,0.495,8.5,8995,68.74,2.43,22.84,25.27,0.11,759,6.29,10.52
+Washed post-harvest process,50.343,21.36,189.6,0.467,7.8,8440,64.25,2.32,23,25.32,0.1,705,6.21,10.45
+Washed post-harvest process,50.452,21.3,189.9,0.469,7.8,8465,67.02,2.39,23.12,25.51,0.1,701,6.19,10.44
+Washed post-harvest process,53.933,21.1,187.8,0.471,7.6,8415,67,2.38,23.02,25.4,0.1,702,6.21,10.43
+Natural process without zeolite (NWZ),59.197,29.9,238.4,0.547,9.2,9415,69.09,3.26,23.53,26.79,0.14,779,6.29,10.83
+Natural process without zeolite (NWZ),60.026,30.4,239,0.544,9.7,9420,70.36,3.4,24.17,27.57,0.14,781,6.27,10.85
+Natural process without zeolite (NWZ),63.508,30.6,237.3,0.549,9.1,9435,67.51,3.73,24.39,28.12,0.15,778,6.21,10.82
+Honey process without zeolite (HWZ),51.757,43.7,224.7,0.509,8.9,9120,71.22,1.75,22.98,24.73,0.08,773,6.24,10.72
+Honey process without zeolite (HWZ),53.824,43.5,223.7,0.508,8.7,9115,70.71,1.76,22.37,24.13,0.08,775,6.26,10.74
+Honey process without zeolite (HWZ),53.716,43,222.4,0.503,8.2,9125,71.09,1.63,22.17,23.8,0.07,781,6.22,10.73
+Washed process without zeolite (WWZ),52.192,21.4,193,0.485,7.4,8515,68.99,2.2,23.52,25.72,0.09,716,6.18,10.64
+Washed process without zeolite (WWZ),50.56,21,192.1,0.487,7.3,8590,69.17,2.2,23.4,25.6,0.09,704,6.22,10.63
+Washed process without zeolite (WWZ),53.498,20.9,194.3,0.49,7.5,8540,71.11,1.87,22.89,24.76,0.08,708,6.29,10.61
+Natural process with zeolite-assisted drying (NWZ.),51.648,42.7,228.5,0.523,9.5,9385,66.35,3.03,23.78,26.81,0.13,761,6.16,10.62
+Natural process with zeolite-assisted drying (NWZ.),50.343,42.9,229.9,0.528,9.1,9390,64.99,3.05,23.4,26.45,0.13,764,6.16,10.64
+Natural process with zeolite-assisted drying (NWZ.),46.752,42.4,228.8,0.525,9.7,9385,65.84,3.11,23.74,26.85,0.13,767,6.15,10.65
+Honey process with zeolite-assisted drying (HWZ.),50.778,25.3,220.1,0.496,8.1,8995,69.62,2.4,23.17,25.57,0.1,766,6.28,10.51
+Honey process with zeolite-assisted drying (HWZ.),51.322,25.5,221.8,0.498,7.9,8999,69.5,2.43,22.98,25.41,0.11,771,6.28,10.53
+Honey process with zeolite-assisted drying (HWZ.),50.778,25,222.6,0.495,8.5,8995,68.74,2.43,22.84,25.27,0.11,759,6.29,10.52
+Washed process with zeolite-assisted drying (WWZ.),50.343,21.36,189.6,0.467,7.8,8440,64.25,2.32,23,25.32,0.1,705,6.21,10.45
+Washed process with zeolite-assisted drying (WWZ.),50.452,21.3,189.9,0.469,7.8,8465,67.02,2.39,23.12,25.51,0.1,701,6.19,10.44
+Washed process with zeolite-assisted drying (WWZ.),53.933,21.1,187.8,0.471,7.6,8415,67,2.38,23.02,25.4,0.1,702,6.21,10.43
